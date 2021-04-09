@@ -5,13 +5,20 @@
 * License: https://bootstrapmade.com/license/
 */
 
-  "use strict";
+"use strict";
 
-  window.onLoadMain = {
-    onscroll: () => {
+window.inicialize = initialize;
+
+function initialize(){
+  initObj.onloadscroll();
+  initObj.preloader();
+  initObj.scrolloffset();
+  initObj.clickonscroll();
+
+}
+  var initObj = {
+    onloadscroll: () => {
       navbarlinksActive();
-
-
     }, 
     /**
    * Preloader

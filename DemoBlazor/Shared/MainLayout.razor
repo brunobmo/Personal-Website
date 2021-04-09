@@ -692,10 +692,7 @@
     protected override async Task OnAfterRenderAsync(bool firstRender){ 
         if (firstRender)
         { 
-            await JSRuntime.InvokeVoidAsync("onLoadMain.onscroll");
-            await JSRuntime.InvokeVoidAsync("onLoadMain.preloader");
-            await JSRuntime.InvokeVoidAsync("onLoadMain.scrolloffset");
-            await JSRuntime.InvokeVoidAsync("onLoadMain.clickonscroll");
+            await JSRuntime.InvokeVoidAsync("inicialize");
 
         }
     }
