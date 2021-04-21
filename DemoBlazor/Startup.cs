@@ -29,6 +29,8 @@ namespace DemoBlazor
             services.AddRazorPages();
             services.AddServerSideBlazor();
             services.AddSingleton<WeatherForecastService>();
+            services.AddTransient<ISqlDataAcess, SqlDataAcess>();
+            services.AddTransient<IPublicationData, PublicationData>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

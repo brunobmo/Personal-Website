@@ -48,3 +48,25 @@
 /Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/MainLayout_backup.razor.g.cs
 /Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/obj/Debug/netcoreapp3.1/Razor/Shared/MainLayout_backup.razor.g.cs
 /Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/obj/Debug/netcoreapp3.1/Razor/Pages/backup_Host copy.cshtml.g.cs
+/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/Header.razor.g.cs
+/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/obj/Debug/netcoreapp3.1/Razor/Shared/Header.razor.g.cs
+/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/Hero.razor.g.cs
+/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/obj/Debug/netcoreapp3.1/Razor/Shared/Hero.razor.g.cs
+/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/About.razor.g.cs
+/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/obj/Debug/netcoreapp3.1/Razor/Shared/About.razor.g.cs
+/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/Facts.razor.g.cs
+/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/obj/Debug/netcoreapp3.1/Razor/Shared/Facts.razor.g.cs
+/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/Skills.razor.g.cs
+/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/obj/Debug/netcoreapp3.1/Razor/Shared/Skills.razor.g.cs
+/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/Resume.razor.g.cs
+/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/obj/Debug/netcoreapp3.1/Razor/Shared/Resume.razor.g.cs
+/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/Portfolio.razor.g.cs
+/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/obj/Debug/netcoreapp3.1/Razor/Shared/Portfolio.razor.g.cs
+/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/Services.razor.g.cs
+/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/obj/Debug/netcoreapp3.1/Razor/Shared/Services.razor.g.cs
+/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/Testimonials.razor.g.cs
+/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/obj/Debug/netcoreapp3.1/Razor/Shared/Testimonials.razor.g.cs
+/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/Contact.razor.g.cs
+/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/obj/Debug/netcoreapp3.1/Razor/Shared/Contact.razor.g.cs
+/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/Footer.razor.g.cs
+/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/obj/Debug/netcoreapp3.1/Razor/Shared/Footer.razor.g.cs

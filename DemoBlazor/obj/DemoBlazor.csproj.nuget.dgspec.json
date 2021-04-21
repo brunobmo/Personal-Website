@@ -4,6 +4,63 @@
     "/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/DemoBlazor.csproj": {}
   },
   "projects": {
+    "/Users/brunooliveira/Projects/dapperExample/dapperExample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/brunooliveira/Projects/dapperExample/dapperExample.csproj",
+        "projectName": "dapperExample",
+        "projectPath": "/Users/brunooliveira/Projects/dapperExample/dapperExample.csproj",
+        "packagesPath": "/Users/brunooliveira/.nuget/packages/",
+        "outputPath": "/Users/brunooliveira/Projects/dapperExample/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/brunooliveira/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/DemoBlazor.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -24,7 +81,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "/Users/brunooliveira/Projects/dapperExample/dapperExample.csproj": {
+                "projectPath": "/Users/brunooliveira/Projects/dapperExample/dapperExample.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

@@ -12,167 +12,35 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -438907142,
+        "HashCode": -1100768622,
         "Kind": "Components.Component",
-        "Name": "DemoBlazor.Pages.Counter",
+        "Name": "DemoBlazor.App",
         "AssemblyName": "DemoBlazor",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Counter"
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "DemoBlazor.Pages.Counter"
+          "Common.TypeName": "DemoBlazor.App"
         }
       },
       {
-        "HashCode": -1038984840,
+        "HashCode": -1902858235,
         "Kind": "Components.Component",
-        "Name": "DemoBlazor.Pages.Counter",
+        "Name": "DemoBlazor.App",
         "AssemblyName": "DemoBlazor",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "DemoBlazor.Pages.Counter"
+            "TagName": "DemoBlazor.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "DemoBlazor.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 2115554595,
-        "Kind": "Components.Component",
-        "Name": "DemoBlazor.Pages.Error",
-        "AssemblyName": "DemoBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Error"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "DemoBlazor.Pages.Error"
-        }
-      },
-      {
-        "HashCode": 1491970834,
-        "Kind": "Components.Component",
-        "Name": "DemoBlazor.Pages.Error",
-        "AssemblyName": "DemoBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "DemoBlazor.Pages.Error"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "DemoBlazor.Pages.Error",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 821477163,
-        "Kind": "Components.Component",
-        "Name": "DemoBlazor.Pages.FetchData",
-        "AssemblyName": "DemoBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "DemoBlazor.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": 157243386,
-        "Kind": "Components.Component",
-        "Name": "DemoBlazor.Pages.FetchData",
-        "AssemblyName": "DemoBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "DemoBlazor.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "DemoBlazor.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 154414751,
-        "Kind": "Components.Component",
-        "Name": "DemoBlazor.Pages.Index",
-        "AssemblyName": "DemoBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "DemoBlazor.Pages.Index"
-        }
-      },
-      {
-        "HashCode": 1827947078,
-        "Kind": "Components.Component",
-        "Name": "DemoBlazor.Pages.Index",
-        "AssemblyName": "DemoBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "DemoBlazor.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "DemoBlazor.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -628408364,
-        "Kind": "Components.Component",
-        "Name": "DemoBlazor.Shared.NavMenu",
-        "AssemblyName": "DemoBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "DemoBlazor.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": 31261101,
-        "Kind": "Components.Component",
-        "Name": "DemoBlazor.Shared.NavMenu",
-        "AssemblyName": "DemoBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "DemoBlazor.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "DemoBlazor.Shared.NavMenu",
+          "Common.TypeName": "DemoBlazor.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -273,6 +141,369 @@
         }
       },
       {
+        "HashCode": -628408364,
+        "Kind": "Components.Component",
+        "Name": "DemoBlazor.Shared.NavMenu",
+        "AssemblyName": "DemoBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DemoBlazor.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": 31261101,
+        "Kind": "Components.Component",
+        "Name": "DemoBlazor.Shared.NavMenu",
+        "AssemblyName": "DemoBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DemoBlazor.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DemoBlazor.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1622001834,
+        "Kind": "Components.Component",
+        "Name": "DemoBlazor.Shared.Header",
+        "AssemblyName": "DemoBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Header"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DemoBlazor.Shared.Header"
+        }
+      },
+      {
+        "HashCode": 2027812213,
+        "Kind": "Components.Component",
+        "Name": "DemoBlazor.Shared.Header",
+        "AssemblyName": "DemoBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DemoBlazor.Shared.Header"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DemoBlazor.Shared.Header",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 972050110,
+        "Kind": "Components.Component",
+        "Name": "DemoBlazor.Shared.About",
+        "AssemblyName": "DemoBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "About"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DemoBlazor.Shared.About"
+        }
+      },
+      {
+        "HashCode": -898937842,
+        "Kind": "Components.Component",
+        "Name": "DemoBlazor.Shared.About",
+        "AssemblyName": "DemoBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DemoBlazor.Shared.About"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DemoBlazor.Shared.About",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 465798046,
+        "Kind": "Components.Component",
+        "Name": "DemoBlazor.Shared.Facts",
+        "AssemblyName": "DemoBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Facts"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DemoBlazor.Shared.Facts"
+        }
+      },
+      {
+        "HashCode": 721259355,
+        "Kind": "Components.Component",
+        "Name": "DemoBlazor.Shared.Facts",
+        "AssemblyName": "DemoBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DemoBlazor.Shared.Facts"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DemoBlazor.Shared.Facts",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1657862061,
+        "Kind": "Components.Component",
+        "Name": "DemoBlazor.Shared.Skills",
+        "AssemblyName": "DemoBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Skills"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DemoBlazor.Shared.Skills"
+        }
+      },
+      {
+        "HashCode": -597122925,
+        "Kind": "Components.Component",
+        "Name": "DemoBlazor.Shared.Skills",
+        "AssemblyName": "DemoBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DemoBlazor.Shared.Skills"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DemoBlazor.Shared.Skills",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 654091438,
+        "Kind": "Components.Component",
+        "Name": "DemoBlazor.Shared.Resume",
+        "AssemblyName": "DemoBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Resume"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DemoBlazor.Shared.Resume"
+        }
+      },
+      {
+        "HashCode": -801829281,
+        "Kind": "Components.Component",
+        "Name": "DemoBlazor.Shared.Resume",
+        "AssemblyName": "DemoBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DemoBlazor.Shared.Resume"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DemoBlazor.Shared.Resume",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 744247184,
+        "Kind": "Components.Component",
+        "Name": "DemoBlazor.Shared.Portfolio",
+        "AssemblyName": "DemoBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Portfolio"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DemoBlazor.Shared.Portfolio"
+        }
+      },
+      {
+        "HashCode": -919829230,
+        "Kind": "Components.Component",
+        "Name": "DemoBlazor.Shared.Portfolio",
+        "AssemblyName": "DemoBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DemoBlazor.Shared.Portfolio"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DemoBlazor.Shared.Portfolio",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 2139602639,
+        "Kind": "Components.Component",
+        "Name": "DemoBlazor.Shared.Services",
+        "AssemblyName": "DemoBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Services"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DemoBlazor.Shared.Services"
+        }
+      },
+      {
+        "HashCode": -20756604,
+        "Kind": "Components.Component",
+        "Name": "DemoBlazor.Shared.Services",
+        "AssemblyName": "DemoBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DemoBlazor.Shared.Services"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DemoBlazor.Shared.Services",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1008028347,
+        "Kind": "Components.Component",
+        "Name": "DemoBlazor.Shared.Testimonials",
+        "AssemblyName": "DemoBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Testimonials"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DemoBlazor.Shared.Testimonials"
+        }
+      },
+      {
+        "HashCode": 1061044804,
+        "Kind": "Components.Component",
+        "Name": "DemoBlazor.Shared.Testimonials",
+        "AssemblyName": "DemoBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DemoBlazor.Shared.Testimonials"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DemoBlazor.Shared.Testimonials",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 430858003,
+        "Kind": "Components.Component",
+        "Name": "DemoBlazor.Shared.Contact",
+        "AssemblyName": "DemoBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Contact"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DemoBlazor.Shared.Contact"
+        }
+      },
+      {
+        "HashCode": -377052805,
+        "Kind": "Components.Component",
+        "Name": "DemoBlazor.Shared.Contact",
+        "AssemblyName": "DemoBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DemoBlazor.Shared.Contact"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DemoBlazor.Shared.Contact",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 275083005,
+        "Kind": "Components.Component",
+        "Name": "DemoBlazor.Shared.Footer",
+        "AssemblyName": "DemoBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Footer"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DemoBlazor.Shared.Footer"
+        }
+      },
+      {
+        "HashCode": -1370647847,
+        "Kind": "Components.Component",
+        "Name": "DemoBlazor.Shared.Footer",
+        "AssemblyName": "DemoBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DemoBlazor.Shared.Footer"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DemoBlazor.Shared.Footer",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 61417250,
         "Kind": "Components.Component",
         "Name": "DemoBlazor.Shared.MainLayout",
@@ -369,35 +600,167 @@
         }
       },
       {
-        "HashCode": -1100768622,
+        "HashCode": -136682488,
         "Kind": "Components.Component",
-        "Name": "DemoBlazor.App",
+        "Name": "DemoBlazor.Shared.Hero",
         "AssemblyName": "DemoBlazor",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "Hero"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "DemoBlazor.App"
+          "Common.TypeName": "DemoBlazor.Shared.Hero"
         }
       },
       {
-        "HashCode": -1902858235,
+        "HashCode": 756924619,
         "Kind": "Components.Component",
-        "Name": "DemoBlazor.App",
+        "Name": "DemoBlazor.Shared.Hero",
         "AssemblyName": "DemoBlazor",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "DemoBlazor.App"
+            "TagName": "DemoBlazor.Shared.Hero"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "DemoBlazor.App",
+          "Common.TypeName": "DemoBlazor.Shared.Hero",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 154414751,
+        "Kind": "Components.Component",
+        "Name": "DemoBlazor.Pages.Index",
+        "AssemblyName": "DemoBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DemoBlazor.Pages.Index"
+        }
+      },
+      {
+        "HashCode": 1827947078,
+        "Kind": "Components.Component",
+        "Name": "DemoBlazor.Pages.Index",
+        "AssemblyName": "DemoBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DemoBlazor.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DemoBlazor.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 821477163,
+        "Kind": "Components.Component",
+        "Name": "DemoBlazor.Pages.FetchData",
+        "AssemblyName": "DemoBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DemoBlazor.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": 157243386,
+        "Kind": "Components.Component",
+        "Name": "DemoBlazor.Pages.FetchData",
+        "AssemblyName": "DemoBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DemoBlazor.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DemoBlazor.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 2115554595,
+        "Kind": "Components.Component",
+        "Name": "DemoBlazor.Pages.Error",
+        "AssemblyName": "DemoBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Error"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DemoBlazor.Pages.Error"
+        }
+      },
+      {
+        "HashCode": 1491970834,
+        "Kind": "Components.Component",
+        "Name": "DemoBlazor.Pages.Error",
+        "AssemblyName": "DemoBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DemoBlazor.Pages.Error"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DemoBlazor.Pages.Error",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -438907142,
+        "Kind": "Components.Component",
+        "Name": "DemoBlazor.Pages.Counter",
+        "AssemblyName": "DemoBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DemoBlazor.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": -1038984840,
+        "Kind": "Components.Component",
+        "Name": "DemoBlazor.Pages.Counter",
+        "AssemblyName": "DemoBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DemoBlazor.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DemoBlazor.Pages.Counter",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -14787,8 +15150,33 @@
       "FileKind": "component"
     },
     {
+      "FilePath": "/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/Shared/Header.razor",
+      "TargetPath": "Shared\\Header.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/Shared/Services.razor",
+      "TargetPath": "Shared\\Services.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/Shared/Contact.razor",
+      "TargetPath": "Shared\\Contact.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/Pages/Counter.razor",
       "TargetPath": "Pages\\Counter.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/Shared/About.razor",
+      "TargetPath": "Shared\\About.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/Shared/Portfolio.razor",
+      "TargetPath": "Shared\\Portfolio.razor",
       "FileKind": "component"
     },
     {
@@ -14812,8 +15200,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/Shared/Resume.razor",
+      "TargetPath": "Shared\\Resume.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/Shared/Testimonials.razor",
+      "TargetPath": "Shared\\Testimonials.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/Shared/Hero.razor",
+      "TargetPath": "Shared\\Hero.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/Pages/Index.razor",
       "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/Shared/Facts.razor",
+      "TargetPath": "Shared\\Facts.razor",
       "FileKind": "component"
     },
     {
@@ -14834,6 +15242,16 @@
     {
       "FilePath": "/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/Pages/Error.razor",
       "TargetPath": "Pages\\Error.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/Shared/Footer.razor",
+      "TargetPath": "Shared\\Footer.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/brunooliveira/Projects/DemoBlazor/DemoBlazor/Shared/Skills.razor",
+      "TargetPath": "Shared\\Skills.razor",
       "FileKind": "component"
     }
   ],
